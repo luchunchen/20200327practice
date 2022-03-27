@@ -8,3 +8,7 @@ function ccc () {
 function bbb () {
     console.log('this is a function b')
 }
+
+function bbb () {
+    console.log('this is a function b')
+}
