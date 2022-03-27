@@ -17,3 +17,6 @@ function eee () {
     console.log('this is a function e')
 }
 
+function bbb () {
+    console.log('this is a function b')
+}
