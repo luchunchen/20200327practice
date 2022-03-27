@@ -20,3 +20,5 @@ function eee () {
 function bbb () {
     console.log('this is a function b')
 }
+
+console.log('hello world!!')
