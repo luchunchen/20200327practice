@@ -5,3 +5,6 @@ function aaa () {
 function ccc () {
     console.log('this is a function c')
 }
+function bbb () {
+    console.log('this is a function b')
+}
